@@ -1,0 +1,17 @@
+Objective:
+You will write a program that reverses the content of an array in place. This means the actual elements of the array must change position, not just how they are displayed.
+Important Rules:
+1.    You are not allowed to copy the elements into another array and then print them.
+2.    You are not allowed to simply use a loop that prints the array elements from the last index to the first.
+3.    The array itself must be updated so that its contents are reversed in memory.
+Example:
+Output
+Enter a number: 5
+Enter a number: 7
+Enter a number: 3
+Enter a number: 9
+Enter a number: 2
+
+Reversed order: 2, 9, 3, 7, 5.
+
+(Notice: The first element (4) swapped with the last (5), and the second (7) swapped with the second-to-last (9).)
