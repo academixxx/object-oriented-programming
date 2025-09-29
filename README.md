@@ -7,6 +7,3 @@ This repository contains all the **activities, files, and projects** for the **O
 - ✅ Source code files  
 - ✅ Mini projects and assignments  
 - ✅ Practice exercises  
-
-## Technologies Used
-- **Java** 
