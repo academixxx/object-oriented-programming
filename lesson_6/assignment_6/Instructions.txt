@@ -1,0 +1,25 @@
+You will write a Java program that uses dynamic arrays. The program will let the user create an array, add one more number, and then sort the array in ascending order (lowest to highest).
+________________________________________
+Instructions
+1.    Ask the user to enter the size of the first array (Array1).
+o    Example: If the user enters 5, then Array1 will have 5 elements.
+o    The second array (Array2) must then have a size of 6 (one size larger).
+2.    Ask the user to enter numbers to fill Array1.
+3.    Copy all elements of Array1 into Array2.
+4.    Ask the user to enter one more number, then insert it at the end of Array2.
+5.    Display all the elements of Array2 before sorting.
+6.    Sort the elements of Array2 from lowest to highest.
+7.    Display the sorted array.
+________________________________________
+Example Run
+Input the size of Array1: 5
+Input a number: 3
+Input a number: 7
+Input a number: 6
+Input a number: 4
+Input a number: 2
+
+Insert a new number: 1
+Program Output:
+The elements of Array2: 3, 7, 6, 4, 2, 1
+Sorted Elements:       1, 2, 3, 4, 6, 7
